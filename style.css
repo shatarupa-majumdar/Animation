@@ -25,6 +25,9 @@
     align-items: center;
     justify-content: space-between;
 }
+.button {
+    background-color:#b22222;
+}
 a{
    text-decoration:none;
 }
