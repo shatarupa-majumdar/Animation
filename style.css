@@ -27,6 +27,7 @@
 }
 .button {
     background-color:#b22222;
+    background: linear-gradient(#00545d,#000729);
 }
 a{
    text-decoration:none;
@@ -35,7 +36,8 @@ a{
     color: #fff;
     padding: 20px 45px;
     background-color: #b22222;
-        
+     
+    background: linear-gradient(#00545d,#000729); 
     border: 5px solid blue;
     width: 50px;
     border-radius: 50px;
