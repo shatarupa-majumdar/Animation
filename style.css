@@ -25,6 +25,9 @@
     align-items: center;
     justify-content: space-between;
 }
+a{
+   text-decoration:none;
+}
 .button{
     color: #fbfcfd;
     padding: 20px 45px;
