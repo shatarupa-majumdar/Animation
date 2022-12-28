@@ -31,9 +31,9 @@ a{
 .button a{
     color: #fff;
     padding: 20px 45px;
-    background-color: black;
+    background-color: #b22222;
         
-    border: 5px;
+    border: 5px solid blue;
     width: 50px;
     border-radius: 50px;
     outline: none;
