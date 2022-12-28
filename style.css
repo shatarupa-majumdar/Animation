@@ -75,12 +75,14 @@ h1{
     transform: translateY(-50%);
 }
 .useful-links{
-    width: 70px;
+    width: 3vw;
     text-align: center;
     position: absolute;
-    bottom: 80%;
-    transform: translateY(-50%);
+    bottom: 75vh;
+    right: 0vw;
+    /* transform: translateY(-50%);*/
 }
+
 .bubbles img {
     width: 50px;
     animation: bubble 7s linear infinite;
