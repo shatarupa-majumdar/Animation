@@ -72,6 +72,7 @@ h1{
     cursor: pointer;
 }
 .social-links{
+    color: black; 
     width: 60px;
     text-align: center;
     position: absolute;
@@ -82,6 +83,7 @@ h1{
      
 }
 .useful-links{
+    color:black;
     width: 60px;
     text-align: center;
     position: absolute;
