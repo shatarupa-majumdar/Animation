@@ -28,6 +28,7 @@
 .button {
     background-color:#b22222;
     background: linear-gradient(#00545d,#000729);
+    display: block;
 }
 a{
    text-decoration:none;
