@@ -28,6 +28,14 @@
 a{
    text-decoration:none;
 }
+.content{
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 8%;
+    transform: translateY(-50%);
+    
+}
 .button a{
     color: #fff;
     padding: 20px 45px;
@@ -38,14 +46,6 @@ a{
     border-radius: 50px;
     outline: none;
     cursor: pointer;
-}
-.content{
-    color: #fff;
-    position: absolute;
-    top: 50%;
-    left: 8%;
-    transform: translateY(-50%);
-    z-index: 2;
 }
 h1{
     font-size: 5.5rem;
