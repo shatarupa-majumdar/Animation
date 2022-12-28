@@ -75,12 +75,12 @@ h1{
     transform: translateY(-50%);
 }
 .useful-links{
-    width: 3vw;
+    width: 60px;
     text-align: center;
     position: absolute;
-    bottom: 75vh;
-    right: 0vw;
-    /* transform: translateY(-50%);*/
+    bottom: 64vh;
+    right: -0.1vw;
+    transform: translateY(-50%);
 }
 
 .bubbles img {
@@ -150,4 +150,19 @@ h1{
     animation-delay: 6.8s;
     width: 30px;
     
+}
+@media screen and (max-width:700px) {
+    h1 {
+        font-size: 1.5rem;
+        margin: -15px  18px;
+        line-height: 60px;
+    }
+    .content button a{
+        font-size: 0.7rem;
+
+    }
+    .hero button h2 a{
+        font-size: 1rem;
+        margin-right: 10vw;
+    }
 }
