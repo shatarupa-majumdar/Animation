@@ -28,7 +28,7 @@
 a{
    text-decoration:none;
 }
-.button{
+.button a{
     color: #fff;
     padding: 20px 45px;
     background-color: black;
