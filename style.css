@@ -26,7 +26,10 @@
     justify-content: space-between;
 }
 .button {
-    background-color:#b22222;
+    background-color: black;
+        
+        
+        
     background: linear-gradient(#00545d,#000729);
     display: block;
 }
