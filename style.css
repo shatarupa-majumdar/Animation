@@ -180,6 +180,8 @@ h1{
     }
     .content button a{
         font-size: 0.7rem;
+        background-color: black;
+
 
     }
     .hero button h2 a{
