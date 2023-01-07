@@ -3,8 +3,7 @@
     padding: 0;
     font-family: sans-serif;
 }
-.button{
-    background-color:#000729; 
+   
        
     
 .hero{
@@ -29,14 +28,12 @@
     align-items: center;
     justify-content: space-between;
 }
-.button {
-    background-color: black;
+
         
         
         
-    background: linear-gradient(#00545d,#000729);
-    display: block;
-}
+  
+
 a{
    text-decoration:none;
 }
@@ -52,8 +49,7 @@ a{
     outline: none;
     cursor: pointer;
 }
-.content{
-    color: #fff;
+.content{ #fff;
     position: absolute;
     top: 50%;
     left: 8%;
